@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <span> background-image </span>
+<head>
+    <meta charset="utf-8"/>
+    <title>Les Blagues de Toto</title>
+    <h1> Les Blagues de Toto </h1>
+</head>
+<body>
+    <h2><a href="#one">
+        Les Plus Droles</a></h2>
+    <h2><a href="#two">
+        Les Plus Mignonnes</a></h2>
+    <h2><a href="#three">
+        Les Préférées</a></h2>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 id="one">Les Plus Droles</h2>
+    <p> exemple : Toto au supermarché </p>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 id="two">Les Plus Mignonnes</h2>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 id="three">Les Préférées</h2>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+</body>
+
+
+
+
+
+</html>
