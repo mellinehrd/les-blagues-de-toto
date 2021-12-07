@@ -52,3 +52,4 @@ Toto va au zoo avec sa mère et son tonton. Soudain, Toto s'écrit :
 Oh, regarde le singe, maman, on dirait tonton !
 Enfin Toto, ce n'est pas très gentil.
 Ne t’inquiète pas, c'est un singe, il peut pas comprendre !
+
